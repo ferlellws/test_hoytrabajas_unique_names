@@ -71,7 +71,7 @@ resultado: ["Ferley", "Juan Pablo", "Malú", "Gaby", "Ava", "vicky", "Bernardo",
 ```
 
 Imagen de salida prueba exitosa:
-![Screenshot](./images/screenshot1.png)
+![Screenshot](./images/screenshot2.png)
 
 Imagen de salida prueba errada:
-![Screenshot](./images/screenshot2.png)
+![Screenshot](./images/screenshot1.png)

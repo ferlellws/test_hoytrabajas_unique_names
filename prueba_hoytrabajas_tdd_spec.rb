@@ -14,9 +14,9 @@ RSpec.describe UniqueNames do
     res4 = ["Ferley", "Juan Pablo", "Malú", "Gaby", "Ava", "vicky", "Bernardo", "Liliana", "Diana", "Sophia"]
 
     names = [
-      [names1, names2, res2],
+      [names1, names2, res1],
       [names1, names3, res2],
-      [names2, names4, res2],
+      [names2, names4, res3],
       [names3, names4, res4]
     ]
 
